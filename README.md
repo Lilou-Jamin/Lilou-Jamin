@@ -3,7 +3,7 @@
 # 🎓 About me
 I'm a french student in computing sciences, my studies are focusing on the web development including back and front !
 
-# 💻 Languages and tools
+## 💻 Languages and tools
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -22,5 +22,5 @@ I'm a french student in computing sciences, my studies are focusing on the web d
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-# 📊 Stats
+## 📊 Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lilou-jamin&layout=compact)
