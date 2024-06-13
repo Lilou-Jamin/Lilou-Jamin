@@ -1,6 +1,6 @@
-## Bonjour ! 🥖
+# Bonjour ! 🥖
 
-# 🎓 About me
+## 🎓 About me
 I'm a french student in computing sciences, my studies are focusing on the web development including back and front !
 
 ## 💻 Languages and tools
